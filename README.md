@@ -2,6 +2,7 @@ presences-peripheriques
 =======================
 
 - Clone the repository
+- npm install
 - node lib/connectHue.js to get the Hue bridge settings
 - update config.js
 - npm start to run
